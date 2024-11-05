@@ -1,3 +1,4 @@
 first_name = input("Prénom :")
 last_name = input("Nom :")
-print(f"Bonjour {firstName) {lastName}")
+age = input("Age :")
+print(f"Bonjour",first_name,last_name,age,"years old")
